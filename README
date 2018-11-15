@@ -1,0 +1,14 @@
+
+This function finds will search a directory tree for every file that contains a given string.
+
+Compile the finds function by typing make at the shell prompt.
+
+After compiling the program, type ./finds at the shell prompt to see propper formatting. 
+
+The ./finds program has support for finding any standard string in a .S .c .h or any regular file. 
+
+The ./finds program has support for using '.', '*', and '?' characters (max one 
+of each as stated in the directions), but does not support the use of 
+parenthesis () to further advance the pattern recognition. 
+
+My version of finds does not include a custom printf() function, as I did not have time to get to this.
